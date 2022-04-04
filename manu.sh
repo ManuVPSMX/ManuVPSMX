@@ -306,15 +306,15 @@ install_oficial() {
   clear && clear
   msg -bar
   echo -e "\e[1;92m             >> INSTALACION COMPLETADA <<" && msg bar2
-  echo -e "      COMANDO PRINCIPAL PARA ENTRAR AL PANEL "
+  echo -e "      COMANDO PRINCIPAL PARA ENTRAR AL PANELMANUVPS "
   echo -e "                      \033[1;41m  menu  \033[0;37m" && msg -bar2
 
 }
-#VPS-MX 8.6 MOD
+#VPS-MX 8.6 MODMANU
 install_mod() {
   clear && clear
   msg -bar
-  echo -ne "\033[1;97m Digite su slogan: \033[1;32m" && read slogan
+  echo -ne "\033[1;97m Digite su Nombre:): \033[1;32m" && read slogan
   tput cuu1 && tput dl1
   echo -e "$slogan"
   msg -bar
@@ -387,7 +387,7 @@ install_mod() {
   clear && clear
   msg -bar
   echo -e "\e[1;92m             >> INSTALACION COMPLETADA <<" && msg bar2
-  echo -e "      COMANDO PRINCIPAL PARA ENTRAR AL PANEL "
+  echo -e "      COMANDO PRINCIPAL PARA ENTRAR AL PANELMANUVPS "
   echo -e "                      \033[1;41m  menu  \033[0;37m" && msg -bar2
 }
 #LATAM 11.g
@@ -434,7 +434,7 @@ install_ADMRufu() {
   clear && clear
   msg -bar
   echo -e "\e[1;92m             >> INSTALACION COMPLETADA <<" && msg bar2
-  echo -e "      COMANDO PRINCIPAL PARA ENTRAR AL PANEL "
+  echo -e "      COMANDO PRINCIPAL PARA ENTRAR AL PANELMANUVPS "
   echo -e "                      \033[1;41m  menu  \033[0;37m" && msg -bar2
 }
 #CHUMOGH
