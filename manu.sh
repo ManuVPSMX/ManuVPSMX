@@ -221,7 +221,7 @@ done
 
 clear && clear
 msg -bar2
-echo -e " \e[5m\033[1;100m   =====>> ►► 🐲 MULTI - SCRIPTMANU  🐲 ◄◄ <<=====   \033[1;37m"
+echo -e " \e[5m\033[1;100m   =====>> ►► 👾 MULTIMANUVPS - SCRIPTMANU  🤖 ◄◄ <<=====   \033[1;37m"
 msg -bar2
 print_center -ama "LISTADO DE SCRIPT DISPONIBLES"
 msg -bar
