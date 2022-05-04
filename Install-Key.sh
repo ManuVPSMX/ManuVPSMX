@@ -54,7 +54,7 @@ install_paketes() {
   clear && clear
   ### PAQUETES PRINCIPALES
   msg -bar2
-  echo -e " \e[5m\033[1;100m   =====>> ►► 🇨🇴 SCRIPT - VPSMANU 🇨🇴 ◄◄ <<=====   \033[1;37m"
+  echo -e " \e[5m\033[1;100m   =====>> ►► 🥳 SCRIPT - VPSMANU 🥳 ◄◄ <<=====   \033[1;37m"
   msg -bar2
   msg -ama "   PREPARANDO INSTALACION | VERSION: $vesaoSCT"
   msg -bar
